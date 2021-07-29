@@ -1,2 +1,2 @@
-# guess-the-number--computer-
+# guess-the-number-computer
 Third Project
